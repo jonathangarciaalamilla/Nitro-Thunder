@@ -1,5 +1,13 @@
 # NitroThunder
-## A racing game made in Unity for CSCI-3037 at Middle Tennessee State University
+
+Contributors:   
+Jonathan Garcia  
+Kyle Nicholson
+Jonathan Padilla
+Michael Butkevicius
+Wesley Mitchell
+
+## A Unity-based racing game made for CSCI-3037 at Middle Tennessee State University
 
 ### Downloading Repository:
 - Either download the repository as a zip file or clone the repository using the command below
