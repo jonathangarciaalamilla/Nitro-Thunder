@@ -1,7 +1,7 @@
 # NitroThunder
 
 Contributors:   
-Jonathan Garcia  
+Jonathan Garcia
 Kyle Nicholson
 Jonathan Padilla
 Michael Butkevicius
