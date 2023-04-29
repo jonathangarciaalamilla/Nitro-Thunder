@@ -1,6 +1,6 @@
 # NitroThunder - A Unity based Racing Game
 
-## Contributors:  
+### Contributors:  
 Jonathan Garcia  
 Kyle Nicholson  
 Jonathan Padilla  
