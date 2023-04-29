@@ -2,11 +2,11 @@
 
 Contributors:   
 
-Jonathan Garcia
-Kyle Nicholson
-Jonathan Padilla
-Michael Butkevicius
-Wesley Mitchell
+Jonathan Garcia  
+Kyle Nicholson  
+Jonathan Padilla  
+Michael Butkevicius  
+Wesley Mitchell  
 
 ## A Unity-based racing game made for CSCI-3037 at Middle Tennessee State University
 
