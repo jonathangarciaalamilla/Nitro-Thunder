@@ -18,11 +18,11 @@ git clone https://github.com/jonathangarciaalamilla/Nitro-Thunder.git
 
 ### Running Executables:
 - Mac users can play the game by running `MacBuild.app` in the root directory
-- Windows users can play the game by running the 'Track.exe' executable in the 'WindowsBuild' directory
+- Windows users can play the game by running the `Track.exe` executable in the WindowsBuild directory
 
 ### Viewing and Running the game in the Unity Editor:
 1. Open the directory of the repository in the Unity Editor
-2. Go 'File->Open Scene' and navigate to the 'Scenes' directory and select 'MenuScreen'
+2. Go `File->Open Scene` and navigate to the `Scenes` directory and select `MenuScreen`
 3. Game can then be run in the Unity editor (note that text such as the speedometer may be much larger when running in the editor)
 
 ## Controls:
