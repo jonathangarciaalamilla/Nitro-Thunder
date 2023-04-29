@@ -31,5 +31,5 @@ git clone https://github.com/jonathangarciaalamilla/Nitro-Thunder.git
 - **Reverse** - `D` or `Down arrow`
 - **Brake** - `Space`
 - **Nitro** - `Shift`
-- **Pause** - `Esc` key
+- **Pause Game** - `Esc` key
 
