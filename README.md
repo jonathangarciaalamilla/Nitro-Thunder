@@ -12,7 +12,7 @@ Wesley Mitchell
 ### Downloading Repository:
 - Either download the repository as a zip file or clone the repository using the command below
 ```
-git clone https://github.com/Weslex/NitroThunder.git
+git clone https://github.com/jonathangarciaalamilla/Nitro-Thunder.git
 ```
 
 ### Running Executables
