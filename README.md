@@ -27,9 +27,9 @@ git clone https://github.com/jonathangarciaalamilla/Nitro-Thunder.git
 
 ## Controls:
 
-- **Forward** - `w` or `up arrow`
-- **Reverse** - `d` or `down arrow`
-- **Brake** - `space`
-- **Nitro** - `shift`
-- **Pause** - `esc key`
+- **Forward** - `W` or `up arrow`
+- **Reverse** - `D` or `down arrow`
+- **Brake** - `SPACE`
+- **Nitro** - `SHIFT`
+- **Pause** - `ESC`
 
