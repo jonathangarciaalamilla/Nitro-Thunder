@@ -29,7 +29,7 @@ git clone https://github.com/jonathangarciaalamilla/Nitro-Thunder.git
 
 - **Forward** - `W` or `up arrow`
 - **Reverse** - `D` or `down arrow`
-- **Brake** - `SPACE`
-- **Nitro** - `SHIFT`
-- **Pause** - `ESC`
+- **Brake** - `space`
+- **Nitro** - `shift`
+- **Pause** - `esc` key
 
