@@ -7,7 +7,7 @@ Jonathan Padilla
 Michael Butkevicius  
 Wesley Mitchell  
 
-## A Unity-based racing game
+## Getting started
 
 ### Downloading Repository:
 - Either download the repository as a zip file or clone the repository using the command below
