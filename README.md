@@ -1,4 +1,4 @@
-# NitroThunder - A Unity based racing game
+# NitroThunder - A Unity based Racing Game
 
 ### Contributors:  
 Jonathan Garcia  
