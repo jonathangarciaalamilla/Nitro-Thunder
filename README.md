@@ -25,8 +25,10 @@ git clone https://github.com/jonathangarciaalamilla/Nitro-Thunder.git
 - Game can then be run in the Unity editor (note that text such as the speedometer may be much larger when running in the editor)
 
 ### Controls:
-- Foward - **w** or **up arrow**
-- Reverse - **d** or **down arrow**
-- Brake - **space**
-- Nitro - **shift**
-- Pause - **esc** key
+
+- **Forward** - `w` or `up arrow`
+- **Reverse** - `d` or `down arrow`
+- **Brake** - `space`
+- **Nitro** - `shift`
+- **Pause** - `esc key`
+
