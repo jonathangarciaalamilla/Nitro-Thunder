@@ -17,7 +17,7 @@ git clone https://github.com/jonathangarciaalamilla/Nitro-Thunder.git
 ```
 
 ### Running Executables:
-- Mac users can play the game by running 'MacBuild.app' in the root directory
+- Mac users can play the game by running `MacBuild.app` in the root directory
 - Windows users can play the game by running the 'Track.exe' executable in the 'WindowsBuild' directory
 
 ### Viewing and Running the game in the Unity Editor:
